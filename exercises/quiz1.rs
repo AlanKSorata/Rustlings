@@ -16,7 +16,7 @@
 // Put your function here!
 fn calculate_price_of_apples(p: i32) -> i32 {
     if p <= 40 {
-        p * 2
+        2 * p
     } else {
         p
     }
